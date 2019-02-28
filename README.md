@@ -1,5 +1,5 @@
-# Revista psico website
+# Revista psico
 
  Revista de la comisión de estudiantes de la facultad de psicología del año 2015.
 
-!(Portada de la revista)[Image.jpg]
+![Portada de la revista](Image.jpg)
